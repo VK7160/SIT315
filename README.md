@@ -2,7 +2,7 @@
 This folder contains the files for the different assignments alloted to us in this unit during my 4 Semester in their respective folders.
 
 # Different Assignments
-Please see the following tasks inside this repo:
+Please see the following task with their files:
 
 - [M1.S1P](./M1.S1P)
 - [M1.S2P](./M1.S2P)
