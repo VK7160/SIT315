@@ -4,5 +4,5 @@ This folder contains the files for the different assignments alloted to us in th
 # Different Assignments
 Please see the following tasks inside this repo:
 
-- [M1.S1P](./M1.S1P)
+- [M1.T1P](./M1.T1P)
 
